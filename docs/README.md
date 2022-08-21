@@ -1,0 +1,26 @@
+---
+home: true
+title: Home
+heroImage:
+actions:
+  - text: 开始
+    link: /link
+    type: primary
+#   - text: Introduction
+#     link: /guide/
+#     type: secondary
+features:
+  - title: 链接
+    details: 记录他人分享链接
+  - title: 记录
+    details: 记录自己的学习经过
+  - title: 使用
+    details: 融会贯通所有知识
+#   - title: Themes
+#     details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
+#   - title: Plugins
+#     details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
+#   - title: Bundlers
+#     details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+footer: MIT Licensed | Copyright © 2021-present weking
+---
