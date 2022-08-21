@@ -14,7 +14,8 @@
   "directories": {
     "doc": "docs"
   },
-  "author": "",
+  "author": "wekingtan <wekingtan1991@gmail.com>",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": "git@github.com:wekingtan1991/monster-blog.git"
 }
