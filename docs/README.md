@@ -6,9 +6,9 @@ actions:
   - text: 开始
     link: /link
     type: primary
-#   - text: Introduction
-#     link: /guide/
-#     type: secondary
+  - text: 笔记
+    link: /handbook/Algorithm.md
+    type: secondary
 features:
   - title: 链接
     details: 链接所有有趣的地方
