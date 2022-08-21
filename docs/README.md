@@ -11,11 +11,11 @@ actions:
 #     type: secondary
 features:
   - title: 链接
-    details: 记录他人分享链接
+    details: 链接所有有趣的地方
   - title: 记录
-    details: 记录自己的学习经过
+    details: 记录自己的学习过程
   - title: 使用
-    details: 融会贯通所有知识
+    details: 使用所有已经吸收消化的内容
 #   - title: Themes
 #     details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
 #   - title: Plugins
