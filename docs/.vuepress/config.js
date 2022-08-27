@@ -37,9 +37,11 @@ module.exports = {
                         "/handbook/Algorithm.md",
                         "/handbook/Git.md",
                         "/handbook/Java.md",
+                        "/handbook/MySQL.md",
                         "/handbook/Minio.md",
                         "/handbook/Nexus.md",
-                        "/handbook/Nginx.md"
+                        "/handbook/Nginx.md",
+                        "/handbook/VideoAudio.md"
                     ]
                 }
             ]

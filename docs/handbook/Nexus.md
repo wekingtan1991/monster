@@ -1,14 +1,12 @@
-<!-- ---
-title: Nexus笔记
-date: '2022-06-07'
-sidebar: 'auto'
---- -->
-# Nexus
+# Nexus3
 
-## docker 部署 nexus3
+## docker 部署
 
 ```bash
-docker run -d -p 8081:8081 -p 8082:8082 -p 8083:8083 -p 8084:8084 -v /home/docker/nexus/nexus-data:/nexus-data --name nexus3 sonatype/nexus3
+docker run -d -p 8081:8081 \
+-p 8082:8082 -p 8083:8083 -p 8084:8084 \
+-v /home/docker/nexus/nexus-data:/nexus-data \
+--name nexus3 sonatype/nexus3
 ```
 
 ## 问题
