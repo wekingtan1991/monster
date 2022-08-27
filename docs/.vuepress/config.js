@@ -35,12 +35,14 @@ module.exports = {
                     collapsible: true,
                     children: [
                         "/handbook/Algorithm.md",
-                        "/handbook/Git.md",
                         "/handbook/Java.md",
                         "/handbook/MySQL.md",
+                        "/handbook/Redis.md",
+                        "/handbook/Nginx.md",
                         "/handbook/Minio.md",
                         "/handbook/Nexus.md",
-                        "/handbook/Nginx.md",
+                        "/handbook/Linux.md",
+                        "/handbook/Git.md",
                         "/handbook/VideoAudio.md"
                     ]
                 }
