@@ -93,6 +93,32 @@ find / -name "*.cnf"
 sql_mode=STRICT_TRANS_TABLES,NO_ENGINE_SUBSTITUTION
 ```
 
-2、[mysql8配置文件默认例子](./assets/my.cnf)
+2、[mysql8 配置文件默认例子](./assets/my.cnf.md)
 
 3、通过 `my.cnf` 可以知道，mysql 还包括 `/etc/mysql/conf.d/` 这个地方的配置文件。所以 `mysql8.cnf` 可以放到该位置
+
+### docker 容器创建新用户
+
+```
+1、进入 mysql 容器内部
+docker exec -it 容器ID /bin/bash
+
+2、登录 mysql
+mysql -u root -p
+输入 password：123qweasdzxc
+
+3、创建新用户
+CREATE USER 'lz'@'%' IDENTIFIED BY 'technical';
+
+4、授权新用户
+GRANT ALL PRIVILEGES ON  *.* TO 'lz'@'%';
+
+5、刷新
+FLUSH PRIVILEGES;
+
+6、退出mysql
+exit
+
+7、退出容器
+exit
+```

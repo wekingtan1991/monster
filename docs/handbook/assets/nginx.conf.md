@@ -1,4 +1,6 @@
+# nginx配置文件默认例子-nginx.conf
 
+```config
 user  nginx;
 worker_processes  auto;
 
@@ -30,3 +32,4 @@ http {
 
     include /etc/nginx/conf.d/*.conf;
 }
+```

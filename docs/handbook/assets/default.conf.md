@@ -1,3 +1,6 @@
+# nginx配置文件默认例子-default.conf
+
+```config
 server {
     listen       80;
     listen  [::]:80;
@@ -42,4 +45,4 @@ server {
     #    deny  all;
     #}
 }
-
+```

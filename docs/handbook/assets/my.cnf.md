@@ -1,3 +1,6 @@
+# mysql8 配置文件默认例子
+
+```config
 # For advice on how to change settings please see
 # http://dev.mysql.com/doc/refman/8.0/en/server-configuration-defaults.html
 
@@ -34,3 +37,4 @@ pid-file=/var/run/mysqld/mysqld.pid
 socket=/var/run/mysqld/mysqld.sock
 
 !includedir /etc/mysql/conf.d/
+```

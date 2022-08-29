@@ -1,3 +1,6 @@
+# redis5 配置文件默认例子
+
+```config
 # Redis configuration file example.
 #
 # Note that in order to read the configuration file, Redis must be

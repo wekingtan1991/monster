@@ -79,5 +79,5 @@ find / -name "*.conf"
 
 #### 配置文件例子
 
-1、[redis5配置文件默认例子](./assets/redis5.conf)
+1、[redis5 配置文件默认例子](./assets/redis5.conf.md)
 

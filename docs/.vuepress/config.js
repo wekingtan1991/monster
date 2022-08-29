@@ -21,7 +21,19 @@ module.exports = {
             },
             {
                 text: "笔记",
-                children: ["/handbook/Algorithm.md", "/handbook/Git.md", "/handbook/Java.md", "/handbook/Minio.md", "/handbook/Nexus.md", "/handbook/Nginx.md"],
+                children: [
+                    "/handbook/Algorithm.md",
+                    "/handbook/Java.md",
+                    "/handbook/MySQL.md",
+                    "/handbook/Redis.md",
+                    "/handbook/Nginx.md",
+                    "/handbook/Minio.md",
+                    "/handbook/Nexus.md",
+                    "/handbook/Linux.md",
+                    "/handbook/Docker.md",
+                    "/handbook/Git.md",
+                    "/handbook/VideoAudio.md"
+                ]
             },
             {
                 text: "GitHub",
@@ -42,6 +54,7 @@ module.exports = {
                         "/handbook/Minio.md",
                         "/handbook/Nexus.md",
                         "/handbook/Linux.md",
+                        "/handbook/Docker.md",
                         "/handbook/Git.md",
                         "/handbook/VideoAudio.md"
                     ]

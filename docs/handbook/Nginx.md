@@ -91,6 +91,6 @@ find \ -name "*.conf"
 
 #### 配置文件例子
 
-1、[nginx配置文件默认例子-nginx.conf](./assets/nginx.conf)
+1、[nginx配置文件默认例子-nginx.conf](./assets/nginx.conf.md)
 
-2、[nginx配置文件默认例子-default.conf](./assets/default.conf)
+2、[nginx配置文件默认例子-default.conf](./assets/default.conf.md)
