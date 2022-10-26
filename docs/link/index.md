@@ -69,6 +69,12 @@ lastUpdated: true
 - [停车场管理\_物联网](https://github.com/981011512/--?utm_source=gold_browser_extension)
 - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
 
+微服务
+
+- [SpringBlade](https://github.com/chillzhuang/SpringBlade)
+- [open-capacity-platform](https://gitee.com/owenwangwen/open-capacity-platform)
+- [microservices-platform](https://gitee.com/zlt2000/microservices-platform?_from=gitee_search)
+
 ## 前端框架
 - [Element Plus](https://element-plus.org/zh-CN/#/zh-CN)
 - [Ant Design](https://ant.design/index-cn)
@@ -79,6 +85,10 @@ lastUpdated: true
 ## 流媒体服务框架
 - [ZLMediaKit 流媒体服务框架](https://github.com/ZLMediaKit/ZLMediaKit)
 - [SRS 实时视频服务器](https://ossrs.net/lts/zh-cn/)
+
+项目
+
+- [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
 
 ## 工具
 
