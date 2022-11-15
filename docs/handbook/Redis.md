@@ -81,3 +81,10 @@ find / -name "*.conf"
 
 1、[redis5 配置文件默认例子](./assets/redis5.conf.md)
 
+## 扩展
+
+### Jetcache
+
+1、关于二级缓存
+
+![二级缓存](../.vuepress/assets/二级缓存.png)
