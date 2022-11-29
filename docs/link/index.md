@@ -18,6 +18,7 @@ lastUpdated: true
 - [doocs advanced-java](https://doocs.gitee.io/advanced-java/#/README)
 - [CS-Notes](https://www.cyc2018.xyz/)
 - [江南一点雨](http://itboyhub.com/)
+- [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 
 ## 算法
 
@@ -64,6 +65,7 @@ lastUpdated: true
 # 实战项目
 
 - [Dromara 组织](https://dromara.org/zh/projects/)
+- [github1s -- Github 项目源码阅读](https://github1s.com/)
 
 > 单体实战项目
 
@@ -108,6 +110,8 @@ lastUpdated: true
 - [Sa-Token](http://sa-token.dev33.cn/doc/index.html#/)
 - [Jessibuca 纯H5直播流播放器](https://jessibuca.com/)
 - [西瓜视频播放器（HTML5）](https://v2.h5player.bytedance.com/)
+- [MyBatis-Plus](https://baomidou.com/)
+- [JetCache -- Java的缓存系统封装](https://github.com/alibaba/jetcache/tree/master/docs/CN)
 
 # 书籍
 
