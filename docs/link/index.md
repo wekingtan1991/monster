@@ -57,9 +57,7 @@ lastUpdated: true
 
 # 开发语言
 
-- [vue3](https://cn.vuejs.org/)
 - [React](https://react.docschina.org/)
-- [TypeScript](https://www.tslang.cn/samples/index.html)
 - [Sass CSS扩展语言](https://www.sass.hk/)
 
 # 实战项目
