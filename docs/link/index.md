@@ -5,13 +5,13 @@ sidebar: 'auto'
 lastUpdated: true
 ---
 
-# 总结
+## 总结
 
 - [思维导图](https://mubu.com/app)
 
-# 链接
+## 链接
 
-## Java
+### Java
 
 - [JavaGuide 的 Java 学习路线](https://javaguide.cn/)
 - [JavaGuide 面试突击版](https://snailclimb.gitee.io/javaguide-interview/#/)
@@ -20,22 +20,22 @@ lastUpdated: true
 - [江南一点雨](http://itboyhub.com/)
 - [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 
-## 算法
+### 算法
 
 - [labuladong 算法](https://github.com/labuladong/fucking-algorithm)
 - [力扣](https://leetcode-cn.com/problemset/all/)
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation?utm_source=gold_browser_extension)
 - [doocs leetcode](https://doocs.gitee.io/leetcode/#/)
 
-## 计算机
+### 计算机
 
 - [小林 x 图解计算机基础](https://xiaolincoding.com/)
 
-## 源码
+### 源码
 
 - [doocs source-code-hunter](https://doocs.gitee.io/source-code-hunter/#/)
 
-## 巨佬
+### 巨佬
 
 - [美团技术](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
@@ -47,20 +47,20 @@ lastUpdated: true
 - [Threejs 中文网](http://www.webgl3d.cn/)
 - [阿里云开发者社区](https://developer.aliyun.com/learning?spm=a2c6h.21254954.0.0.2cb85907MAriOi)
 
-## android
+### android
 
 - [玩安卓](https://www.wanandroid.com/index)
 
-## 面试真题
+### 面试真题
 
 - [牛客网](https://www.nowcoder.com/)
 
-# 开发语言
+## 开发语言
 
 - [React](https://react.docschina.org/)
 - [Sass CSS扩展语言](https://www.sass.hk/)
 
-# 实战项目
+## 实战项目
 
 - [Dromara 组织](https://dromara.org/zh/projects/)
 - [github1s -- Github 项目源码阅读](https://github1s.com/)
@@ -83,7 +83,7 @@ lastUpdated: true
 - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
 - [Vue-H5-Template](https://sunniejs.github.io/vue-h5-template/guide/)
 
-# 前端框架
+## 前端框架
 
 - [Element Plus](https://element-plus.org/zh-CN/#/zh-CN)
 - [Ant Design](https://ant.design/index-cn)
@@ -92,7 +92,7 @@ lastUpdated: true
 - [Vuetify](https://vuetify.cn/zh-Hans/)
 - [VARLET](https://varlet-varletjs.vercel.app/#/zh-CN/index)
 
-# 流媒体服务框架
+## 流媒体服务框架
 
 - [ZLMediaKit 流媒体服务框架](https://github.com/ZLMediaKit/ZLMediaKit)
 - [SRS 实时视频服务器](https://ossrs.net/lts/zh-cn/)
@@ -101,7 +101,7 @@ lastUpdated: true
 
 - [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
 
-# 工具
+## 工具
 
 - [Hutool](https://www.hutool.cn/docs/#/)
 - [Arthas Java 应用诊断利器](https://arthas.aliyun.com/)
@@ -111,13 +111,13 @@ lastUpdated: true
 - [MyBatis-Plus](https://baomidou.com/)
 - [JetCache -- Java的缓存系统封装](https://github.com/alibaba/jetcache/tree/master/docs/CN)
 
-# 书籍
+## 书籍
 
 - [网道-开发文档](https://wangdoc.com/)
 - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [凤凰架构](http://icyfenix.cn/)
 
-# 视频
+## 视频
 
 - [韩顺平 零基础 30 天学会 Java](https://www.bilibili.com/video/BV1fh411y7R8)
 - [极客时间](https://time.geekbang.org/)
@@ -125,7 +125,7 @@ lastUpdated: true
 - [尚硅谷](http://www.atguigu.com/)
 - [奈学教育](https://e.naixuejiaoyu.com/bought)
 
-# 方法
+## 方法
 
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
