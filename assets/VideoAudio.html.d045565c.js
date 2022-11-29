@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69ff3540","path":"/handbook/VideoAudio.html","title":"\u97F3\u89C6\u9891","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1661618278000,"contributors":[{"name":"wekingtan","email":"wekingtan1991@gmail.com","commits":1}]},"filePathRelative":"handbook/VideoAudio.md"}');export{e as data};

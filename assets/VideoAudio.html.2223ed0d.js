@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,b as e,e as r}from"./app.392b6d9d.js";const c={},d=e("h1",{id:"\u97F3\u89C6\u9891",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u97F3\u89C6\u9891","aria-hidden":"true"},"#"),r(" \u97F3\u89C6\u9891")],-1),s=[d];function _(i,n){return o(),t("div",null,s)}var l=a(c,[["render",_],["__file","VideoAudio.html.vue"]]);export{l as default};
